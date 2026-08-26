@@ -1,0 +1,12 @@
+Indicator_ID,Indicator_Name,Category,SDG_Goal,SDG_Target,Year,Region,Value,Unit,Baseline_Year,Target_Year,Target_Value,Progress_Status,Source,Notes
+3.1.2,Proportion of births attended by skilled health personnel,RMNCH,3,3.1,2024,Global,,%,,2030,,,World Health Statistics 2025,
+3.1.2,Proportion of births attended by skilled health personnel,RMNCH,3,3.1,2024,African Region,,%,,2030,,,World Health Statistics 2025,
+3.1.2,Proportion of births attended by skilled health personnel,RMNCH,3,3.1,2024,Region of the Americas,,%,,2030,,,World Health Statistics 2025,
+3.1.2,Proportion of births attended by skilled health personnel,RMNCH,3,3.1,2024,Eastern Mediterranean Region,,%,,2030,,,World Health Statistics 2025,
+3.1.2,Proportion of births attended by skilled health personnel,RMNCH,3,3.1,2024,European Region,,%,,2030,,,World Health Statistics 2025,
+3.1.2,Proportion of births attended by skilled health personnel,RMNCH,3,3.1,2024,South-East Asia Region,,%,,2030,,,World Health Statistics 2025,
+3.1.2,Proportion of births attended by skilled health personnel,RMNCH,3,3.1,2024,Western Pacific Region,,%,,2030,,,World Health Statistics 2025,
+3.1.2,Proportion of births attended by skilled health personnel,RMNCH,3,3.1,2024,Global,,%,,2030,,,World Health Statistics 2025,
+1.1_HALE,Healthy life expectancy (HALE) at birth,Life Expectancy,3,3.4,2000,Global,58.1,Years,2000.0,2030,,,WHO Global health estimates 2021,
+1.1_HALE,Healthy life expectancy (HALE) at birth,Life Expectancy,3,3.4,2019,Global,63.5,Years,2000.0,2030,,,WHO Global health estimates 2021,
+1.1_HALE,Healthy life expectancy (HALE) at birth,Life Expectancy,3,3.4,2021,Global,61.9,Years,2000.0,2030,,,WHO Global health estimates 2021,
