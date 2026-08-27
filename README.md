@@ -24,6 +24,9 @@ This project is a comprehensive multi-sheet Excel dashboard built to analyse and
 **Regional Breakdown & Regional-Aggregation: Analysing and grouping performance metrics across distinct WHO geographic regions.**
 **Category-Breakdown: Segmenting datasets into core analytical categories**
 
+## 🚀 LinkedIn Showcase ##
+**You can check out our official project presentation, executive preview slides, and the professional announcement post over on LinkedIn: https://lnkd.in/p/dQ_YWcM8**
+
 ## 🙏 Thank You 🙏 ##
 **Thank you for checking out this project! Feedback, suggestions, and contributions are always welcome. Feel free to explore the repository and the files provided**
 
